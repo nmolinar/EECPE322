@@ -12,8 +12,9 @@ This is not a quote
 >This is a quote  
 
 Some basic git commands are:  
-...  
+``` 
 git status  
 git add  
 git commit  
-...
+```
+

@@ -1,1 +1,9 @@
-
+![](/hostname and env.png)
+![](/ps and pwd.png)
+![](/gitclone.png)
+![](/cdiot-rmfile2.png)
+![](/nano.png)
+![](/manuname.png)
+![](/uname-a ifconfig.png)
+![](/pinglocalhost.png)
+![](/netstat.png)

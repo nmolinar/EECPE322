@@ -1,4 +1,4 @@
-![](./hostname and env.png)
+![](/Lab1-2/hostname and env.png)
 ![](/ps and pwd.png)
 ![](/gitclone.png)
 ![](/cdiot-rmfile2.png)

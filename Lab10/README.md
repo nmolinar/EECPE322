@@ -1,1 +1,7 @@
-
+![](/Lab10/Lab10HashValue.png)
+![](/Lab10/Lab10snakecoin.pngg)
+![](/Lab10/Terminal1Snakecoin.png)
+![](/Lab10/Terminal2Snakecoin.png)
+![](/Lab10/Block1ismined.png)
+![](/Lab10/Resync.png)
+![](/Lab10/Yournet.png)

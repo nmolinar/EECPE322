@@ -4,6 +4,6 @@
 ![](/Lab1-2/cdiot-rmfile2.png)
 ![](/Lab1-2/nano.png)
 ![](/Lab1-2/manuname.png)
-![](/Lab1-2/uname-a ifconfig.png)
+![](/Lab1-2/unameifconfig.png)
 ![](/Lab1-2/pinglocalhost.png)
 ![](/Lab1-2/netstat.png)
